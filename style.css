@@ -1,4 +1,69 @@
 .title {
-	font-weight: bold;
-	font-size: 30px;
+	font-size: 60px;
+	font-family:'Gugi', cursive;
+	text-align: center;
+	padding-top: 100px;
 }
+
+p{
+	text-align: center;
+	font-family:'Gugi', cursive;
+	font-size: 40px;
+}
+
+.history {
+	text-align: center;
+    margin-top: 100px;
+	
+}
+.history a {
+  background-color: #DEB887;
+  border-radius: 10px;
+  color: black;
+  font-family:'Gugi', cursive;
+  font-size: 28px;
+  display: inline-block;
+  margin: 15px;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 300px;
+}
+
+ul{list-style:none;}
+
+h1{
+	margin-left:50px;
+	font-family:'Gugi', cursive;
+	font-size: 35px;
+	margin-top:50px;
+	font-weight:lighter;
+}
+
+h2{
+	margin-left: 100px;
+	font-family:'Gugi', cursive;
+	font-size:32px;
+	margin-top:20px;
+	font-weight:lighter;
+}
+
+.Japan{
+	text-align:center;
+	font-family:'Gugi', cursive;
+	font-size:20px;
+}
+
+h3{
+	margin-left:150px;
+	font-family:'Gugi', cursive;
+	font-size:22px;
+	margin-top:10px;
+	font-weight:lighter;
+}
+
+.A{
+	margin-top:50px;
+}
+
