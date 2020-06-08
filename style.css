@@ -28,7 +28,7 @@ p{
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  width: 300px;
+  width: 400px;
 }
 
 ul{list-style:none;}
@@ -67,3 +67,22 @@ h3{
 	margin-top:50px;
 }
 
+.back {
+	text-align: right;
+    margin-top: 20px;
+	
+}
+.back a {
+  background-color: #DEB48C;
+  border-radius: 10px;
+  color: black;
+  font-family:'Gugi', cursive;
+  font-size: 20px;
+  display: inline-block;
+  margin: 15px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 200px;
+}
